@@ -1,0 +1,94 @@
+html{
+    
+    background-color:white;
+}
+
+body{
+border:10px black solid;
+background-color:grey;  
+padding:20px;    
+font-family: Impact, Charcoal, sans-serif;
+    
+}
+
+.defile {
+font-size:18px;
+text-align:center;
+width:70%;
+margin:auto;
+}
+
+.titre{
+
+border:10px black solid;
+opacity:0.8;    
+background-color:white;
+width:70%;
+margin:auto;
+clear:both;
+}
+
+.titre h1{
+text-align:center;
+margin-bottom:20px;
+}
+
+.jeu{
+padding:1px;
+background-color:white;    
+opacity:0.8;
+width:70%;  
+height:300px;
+margin:auto;
+margin-bottom:2%;
+border:10px black solid;
+ box-shadow:12px gray;
+}
+
+.jeu img{
+    
+margin-top:10px;  
+filter: alpha(opacity=10);
+	
+}
+.saisie{
+    
+text-align:center;
+
+}
+
+#bouton{
+    
+font-family: 'MS Serif', 'New York', sans-serif;
+font-size:18px;
+
+}
+
+.resultat{
+    
+text-align:center;
+
+}
+
+.moin{
+   color:green; 
+    
+}
+
+#oui{
+  font-size:30px;  
+  color:green;  
+ 
+}
+
+.plus{
+    
+    color:red;
+}
+.newgame button{
+font-family: 'MS Serif', 'New York', sans-serif;
+font-size:18px;
+opacity:0.8;  
+ box-shadow: 0 4px 2px -2px gray;
+}
+
